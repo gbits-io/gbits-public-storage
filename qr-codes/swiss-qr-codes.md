@@ -10,8 +10,18 @@ There are many variations of official Swiss QR bills and modified Swiss QR bills
 8. reference: **unstructured** vs. **structured** (either QRR or SCOR)
 9. amount field: **empty** vs. **non-empty**
 
-### #1 Ideal Case
-| CHF | QR-IBAN | [IBAN on allow-list](https://www.sns.id/domain?domain=ch9430700114900892402.verified-iban) | QR reference | productive | amount field not empty |
+### #1 Ideal, main case with Swiss Francs (CHF)
+| CHF | QR-IBAN | [IBAN on allow-list](https://www.sns.id/domain?domain=ch9430700114900892402.verified-iban) | QR reference | semi-productive | amount field not empty |
 
 ![Swiss QR bill 01 - CHF](https://github.com/gbits-io/gbits-public-storage/blob/main/qr-codes/Swiss-QR-bill-01-CHF.svg)
+
+### #2 Ideal, main case with Euros (EUR)
+| EUR | QR-IBAN | [IBAN on allow-list](https://www.sns.id/domain?domain=ch9430700114900892402.verified-iban) | QR reference | semi-productive | amount field not empty |
+
+![Swiss QR bill 01 - CHF](https://github.com/gbits-io/gbits-public-storage/blob/main/qr-codes/Swiss-QR-bill-02-EUR.svg)
+
+### #3 Solana address in 'additional info' (IBAN not as subdomain available)
+| CHF | QR-IBAN | [IBAN not on allow-list | QR reference | semi-productive | amount field not empty |
+
+![Swiss QR bill 03 - CHF](https://github.com/gbits-io/gbits-public-storage/blob/main/qr-codes/Swiss-QR-bill-03-CHF.svg)
 
