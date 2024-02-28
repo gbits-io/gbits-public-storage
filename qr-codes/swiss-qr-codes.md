@@ -11,6 +11,7 @@ There are many variations of official Swiss QR bills and modified Swiss QR bills
 9. amount field: **empty** vs. **non-empty**
 
 ### #1 Ideal Case
-| CHF | QR-IBAN | IBAN on allow-list | QR reference | productive | amount field not empty |
+| CHF | QR-IBAN | [IBAN on allow-list](https://www.sns.id/domain?domain=ch9430700114900892402.verified-iban) | QR reference | productive | amount field not empty |
 
-TODO: <add link to image>
+![Swiss QR bill 01 - CHF](https://github.com/gbits-io/gbits-public-storage/blob/main/qr-codes/Swiss-QR-bill-01-CHF.svg)
+
