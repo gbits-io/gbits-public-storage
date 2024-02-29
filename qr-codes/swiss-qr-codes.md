@@ -25,3 +25,17 @@ There are many variations of official Swiss QR bills and modified Swiss QR bills
 
 ![Swiss QR bill 03 - CHF](https://github.com/gbits-io/gbits-public-storage/blob/main/qr-codes/Swiss-QR-bill-03-CHF.svg)
 
+### #4 Solana domain .sol in 'additional info' (IBAN not as subdomain available)
+| CHF | QR-IBAN | [IBAN not on allow-list | QR reference | semi-productive | amount field not empty |
+
+![Swiss QR bill 03 - CHF](https://github.com/gbits-io/gbits-public-storage/blob/main/qr-codes/Swiss-QR-bill-04-CHF.svg)
+
+### #5 not valid Swiss QR code due to currency = USDC
+| USDC | QR-IBAN | [IBAN not on allow-list | QR reference | semi-productive | amount field not empty |
+
+![invalid Swiss QR bill - USDC](USDC.png)
+
+### #5 not valid Swiss QR code due to currency = CHFC
+| CHFC | QR-IBAN | [IBAN on allow-list | QR reference | semi-productive | amount field not empty |
+
+![invalid Swiss QR bill - CHFC](CHFC.png)
