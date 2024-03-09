@@ -35,7 +35,12 @@ There are many variations of official Swiss QR bills and modified Swiss QR bills
 
 ![invalid Swiss QR bill - USDC](USDC.png)
 
-### #5 not valid Swiss QR code due to currency = CHFC
+### #6 not valid Swiss QR code due to currency = CHFC
 | CHFC | QR-IBAN | [IBAN on allow-list | QR reference | semi-productive | amount field not empty |
 
 ![invalid Swiss QR bill - CHFC](CHFC.png)
+
+### #7 not valid Swiss QR code due to currency = SOL
+| SOL | QR-IBAN | [IBAN on allow-list | QR reference | semi-productive | amount field with tiny amount |
+
+![invalid Swiss QR bill - USDC](Swiss-QR-bill-05-SOL.png)
