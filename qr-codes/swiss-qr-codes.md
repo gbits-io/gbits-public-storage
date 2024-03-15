@@ -31,16 +31,16 @@ There are many variations of official Swiss QR bills and modified Swiss QR bills
 ![Swiss QR bill 03 - CHF](https://github.com/gbits-io/gbits-public-storage/blob/main/qr-codes/Swiss-QR-bill-04-CHF.svg)
 
 ### #5 not valid Swiss QR code due to currency = USDC
-| USDC | QR-IBAN | [IBAN not on allow-list | QR reference | semi-productive | amount field not empty |
+| USDC | QR-IBAN | [IBAN not on allow-list | Domain in addtl info | semi-productive | amount field not empty |
 
-![invalid Swiss QR bill - USDC](USDC.png)
+![invalid Swiss QR bill - USDC](https://github.com/gbits-io/gbits-public-storage/blob/main/qr-codes/USDC%20with%20IBAN%20as%20subdomain%20of%20verified-iban.s.png)
 
 ### #6 not valid Swiss QR code due to currency = CHFC
 | CHFC | QR-IBAN | [IBAN on allow-list | QR reference | semi-productive | amount field not empty |
 
-![invalid Swiss QR bill - CHFC](CHFC.png)
+![invalid Swiss QR bill - CHFC]([CHFC and IBAN on allow-list.png"](https://github.com/gbits-io/gbits-public-storage/blob/main/qr-codes/CHFC%20and%20IBAN%20on%20allow-list.png))
 
-### #7 not valid Swiss QR code due to currency = SOL
-| SOL | QR-IBAN | [IBAN on allow-list | QR reference | semi-productive | amount field with tiny amount |
+### #7 not valid Swiss QR code due to currency = USDX
+| SOL | QR-IBAN | QR reference | semi-productive | with sub-domain in additional info | amount field with tiny amount |
 
-![invalid Swiss QR bill - USDC](Swiss-QR-bill-05-SOL.png)
+![invalid Swiss QR bill - USDC](https://github.com/gbits-io/gbits-public-storage/blob/main/qr-codes/USDX%20and%20subdomain%20in%20addtl%20info.png)
