@@ -1,5 +1,10 @@
 # März 2024 - Show Don't Tell
 
+## News
+Die Community macht vorwärts.
+- [VCHF](https://vnx.li/vchf/)
+- [Frankencoin](https://www.frankencoin.com/)
+
 ## Deposit Token | Stablecoin Anwendungsbeispiele
 - [QR Rechnung mit Stablecoin zahlen](https://app.gbits.io/)
 - [Trading](https://pro.prism.ag/)
