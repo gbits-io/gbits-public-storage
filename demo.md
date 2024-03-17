@@ -3,7 +3,7 @@
 ## Deposit Token | Stablecoin Anwendungsbeispiele
 - [QR Rechnung mit Stablecoin zahlen](https://app.gbits.io/)
 - [Trading](https://pro.prism.ag/)
-- [Lending](https://solend.fi/dashboard)
+- [Lending](https://solend.fi/dashboard) USDC > 8% APR
 
 ## Intro Blockchain
 - Hash
