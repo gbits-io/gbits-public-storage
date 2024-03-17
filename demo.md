@@ -6,9 +6,9 @@ Die Community macht vorwärts.
 - [Frankencoin](https://www.frankencoin.com/)
 
 ## Deposit Token | Stablecoin Anwendungsbeispiele
-- [QR Rechnung mit Stablecoin zahlen](https://app.gbits.io/)
+- [QR Rechnung mit Stablecoin zahlen](https://app.gbits.io/) (verified-iban.sol , QRR in memo Feld)
 - [Trading](https://pro.prism.ag/)
-- [Lending](https://solend.fi/dashboard) USDC > 8% APR
+- [Lending](https://solend.fi/dashboard) USDC > 8% APR, SDT > **38%** APR (24h) am Sonntag 17.03.2024
 
 ## Intro Blockchain
 - Hash
@@ -16,6 +16,7 @@ Die Community macht vorwärts.
 [Visualisierung](https://blockchains.web-lab.at/bc-demos/blockchain/blockchain.html)
 
 ## Account (= Konto und Depot)
+Ein Wallet hält mehrere Accounts (private / public key pairs).
 
 ### Beispiel: Ein Account eines Benutzers
 - [Beispiel Account](https://solscan.io/account/JBL2idfXZJpsaErVMYRut8fDdwXntJD7fUNJpnaUCmS6) auf Block Explorer
@@ -35,6 +36,3 @@ Was sieht man da?
 Solche Domainnamen (hier sns.id) sind ähnlich wie Domainnamen für IP Adressen, also www.beispiel.com <-> 145.93.23.111.  
 Beispiel:  
 - [ch5204835012345671000.verified-iban](https://www.sns.id/domain?domain=ch5204835012345671000.verified-iban)
-
-## Handel 
-Beispiel:
