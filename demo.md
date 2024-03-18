@@ -17,6 +17,7 @@ Die Community macht vorwärts.
 
 ## Account (= Konto und Depot)
 Ein Wallet hält mehrere Accounts (private / public key pairs).
+Hinweis Blowfish.
 
 ### Beispiel: Ein Account eines Benutzers
 - [Beispiel Account](https://solscan.io/account/JBL2idfXZJpsaErVMYRut8fDdwXntJD7fUNJpnaUCmS6) auf Block Explorer
@@ -31,6 +32,13 @@ Was sieht man da?
 - [CHFC](https://solscan.io/token/zbWjn4dSFe5R5fmzqNi5UUi9cppLxvxxpDKFHnURA5k)
 - [VCHF CHF linked Token](https://solscan.io/token/AhhdRu5YZdjVkKR3wbnUDaymVQL2ucjMQ63sZ3LFHsch)
 - [Dogwifhat](https://solscan.io/token/EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm)
+
+## Neue Entwicklungen genau für Dinge wie Deposit Token oder Stablecoin
+[Token Extensions](https://solana.com/de/solutions/token-extensions)
+- Confidential transfers
+- Transfer Hooks (z.B. für Sanktionsfilter, Fraud Detection)
+- Zins
+- Confiscation
 
 ## Alias für Accounts 
 Solche Domainnamen (hier sns.id) sind ähnlich wie Domainnamen für IP Adressen, also www.beispiel.com <-> 145.93.23.111.  
