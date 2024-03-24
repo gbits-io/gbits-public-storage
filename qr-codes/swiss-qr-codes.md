@@ -44,3 +44,8 @@ There are many variations of official Swiss QR bills and modified Swiss QR bills
 | SOL | QR-IBAN | QR reference | semi-productive | with sub-domain in additional info | amount field with tiny amount |
 
 ![invalid Swiss QR bill - USDC](https://github.com/gbits-io/gbits-public-storage/blob/main/qr-codes/USDX%20and%20subdomain%20in%20addtl%20info.png)
+
+### 8 Example with sanctioned country
+| SOL | IBAN | not QR ref. | productive | domain in additional info | amount field with tiny amount |
+![payee in sanctioned country ](https://github.com/gbits-io/gbits-public-storage/blob/main/qr-codes/sanctions_example_persia.png)
+
