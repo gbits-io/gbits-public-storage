@@ -49,3 +49,8 @@ There are many variations of official Swiss QR bills and modified Swiss QR bills
 | SOL | IBAN | not QR ref. | productive | domain in additional info | amount field with tiny amount |
 ![payee in sanctioned country ](https://github.com/gbits-io/gbits-public-storage/blob/main/qr-codes/sanctions_example_persia.png)
 
+### 9 Example with sanctions match in additional info field
+| CHF | IBAN | not QR ref. | productive | domain in additional info | sanctions match in additional info |
+
+![sanctions match in additional info field](https://github.com/gbits-io/gbits-public-storage/blob/main/qr-codes/QR-CHF-sanctioned-addtl-info.png)
+
