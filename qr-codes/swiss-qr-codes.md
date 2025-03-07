@@ -10,6 +10,9 @@ There are many variations of official Swiss QR bills and modified Swiss QR bills
 8. reference: **unstructured** vs. **structured** (either QRR or SCOR)
 9. amount field: **empty** vs. **non-empty**
 
+### Testdata for NFT reward feature
+There is a dedicated page for [NFT rewarder test data](https://github.com/gbits-io/nft-reward/blob/main/testdata.md) in the [nft-reward repository](https://github.com/gbits-io/nft-reward/tree/main)
+
 ### #1 Ideal, main case with Swiss Francs (CHF)
 | CHF | QR-IBAN | [IBAN on allow-list](https://www.sns.id/domain?domain=ch9430700114900892402.verified-iban) | QR reference | semi-productive | amount field not empty |
 
