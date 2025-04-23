@@ -1,5 +1,5 @@
-## Supported Stablecoins
-
+Supported Stablecoins
+=====================
   
 | Stablecoin Tickers |
 |-----------------------------|
@@ -8,7 +8,9 @@
 | USDC (by Circle, Inc.) on Solana  |  
   
 
-## On The Roadmap 2025  
+On The Roadmap 2025  
+===================
+  
   
 | Stablecoin Tickers          |
 |-----------------------------|
