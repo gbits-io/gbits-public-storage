@@ -12,7 +12,7 @@ On The Roadmap 2025
 ===================
   
   
-| Stablecoin Tickers          |
+| Stablecoins and CBDC         |
 |-----------------------------|
 | Digital Euro ?|
 | CHFD (Swiss Stablecoin) on Polygon |
