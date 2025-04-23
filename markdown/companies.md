@@ -22,3 +22,6 @@ Visa is using stablecoins itself. Stablecoin issuer Tether holds more U.S. treas
 * Have a Solana wallet (hosted or self-custody)
 * Adhere to some conventions when creating your QR invoices
 
+## How To Convert Back To CHF?
+
+* There are several options. Talk to us and we will help you.
