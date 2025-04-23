@@ -14,9 +14,7 @@ Visa is using stablecoins itself. Stablecoin issuer Tether holds more U.S. treas
 ## Evolution, not Revolution
 
 * Use normal Swiss QR invoices
-
-## It Easily Integrates With Your Accouting System 
-
+* It Easily Integrates With Your Accouting System 
 * Get the payment notifications in realtime via https
 * Fetch end-of-day ISO 20022 CAMT.053 message (same as with banks)
 
