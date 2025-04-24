@@ -6,3 +6,14 @@ Stablecoins settlement volumes surpass Visa's settlement volume for the first ti
 - It's an open solution. No lock-in. 
 - Faster and much cheaper than cards and instant payment
 - Always On (365 days a year)
+
+### Preconditions
+Payer (Consumer)  
+- needs a Solana wallet (Phantom or Backpack)
+- needs to have supported stablecoins and some SOL for the transaction fees.
+  
+Payee (Company, Org. or Freelancer)  
+- needs a self-custody Solana wallet
+- accepts stablecoins (VCHF, EURC, USDC)
+  
+***
