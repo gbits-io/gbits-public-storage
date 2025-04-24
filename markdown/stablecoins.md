@@ -1,14 +1,9 @@
-Supported Stablecoins
-=====================
-
-
+### Supported Stablecoins
 - VCHF (by VNX.li) on Solana  
 - EURC (by Circle, Inc.) on Solana  
 - USDC (by Circle, Inc.) on Solana  
   
-  
-On The Roadmap 2025  
-===================
-  
-__Digital Euro__  
-CHFD (Swiss Stablecoin) on Polygon
+### Backlog of Digital Currencies
+- __Digital Euro__  
+- CHFD (Swiss Stablecoin) on Polygon
+- ZCHF (Frankencoin) on Polygon
