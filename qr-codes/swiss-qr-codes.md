@@ -57,3 +57,9 @@ There is a dedicated page for [NFT rewarder test data](https://github.com/gbits-
 
 ![sanctions match in additional info field](https://github.com/gbits-io/gbits-public-storage/blob/main/qr-codes/QR-CHF-sanctioned-addtl-info.png)
 
+### 10 Example with solana address in "alternative procedure" (according to QR-rechnung.net spec)
+| CHF | No IBAN | alternative procedure |  
+New approach: lookup Solana address from field 'alternative procedure'   
+https://github.com/gbits-io/gbits-scanner-app-react/issues/50
+https://github.com/gbits-io/gbits-public-storage/blob/main/qr-codes/Swiss-QR-bill-10-alternative_procedure_without_IBAN.svg 
+
