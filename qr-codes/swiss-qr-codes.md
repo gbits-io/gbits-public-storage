@@ -61,5 +61,6 @@ There is a dedicated page for [NFT rewarder test data](https://github.com/gbits-
 | CHF | No IBAN | alternative procedure |  
 New approach: lookup Solana address from field 'alternative procedure'   
 https://github.com/gbits-io/gbits-scanner-app-react/issues/50
-https://github.com/gbits-io/gbits-public-storage/blob/main/qr-codes/Swiss-QR-bill-10-alternative_procedure_without_IBAN.svg 
+
+![QR-invoice with alternative procedure but no IBAN](https://raw.githubusercontent.com/gbits-io/gbits-public-storage/refs/heads/main/qr-codes/Swiss-QR-bill-10-alternative_procedure_without_IBAN.svg)
 
