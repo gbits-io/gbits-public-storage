@@ -1,10 +1,9 @@
 ### Year of the Stablecoin
-Stablecoins settlement volumes surpass Visa's settlement volume for the first time. Visa is using stablecoins itself. Stablecoin issuer Tether holds more U.S. treasury bills than does Germany!  
+Stablecoins payments are fast, cheap, transparent and programmable.
   
 ### Why Use Stablecoins?  
-- 70% of 20-40 years old people in Switzerland have cryptos and stablecoins.
 - It's an open solution. No lock-in. 
-- Faster and much cheaper than cards and instant payment
+- Faster and much cheaper than cards and instant payment, (almost) no risk of rejects
 - Always On (365 days a year)
 
 ### Preconditions
