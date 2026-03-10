@@ -1,5 +1,3 @@
-### Year of the Stablecoin
-Stablecoins payments are fast, cheap, transparent and programmable.
   
 ### Why Use Stablecoins?  
 - It's an open solution. No lock-in. 
